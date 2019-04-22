@@ -1,0 +1,20 @@
+{
+    "name": "Erin Kelley",
+    "website": "https://erinkelley.co/",
+    "linkedin": "https://www.linkedin.com/in/erinmargaretkelley/",
+    "github": "erinkelley27",
+    "email": "erin.kelley@generalassemb.ly",
+    "proficientTechnologies": [
+        "Javascript",
+        "React",
+        "Node",
+        "Express",
+        "Mongodb",
+        "PostgreSQL",
+        "Python",
+        "Django"
+    ],
+    "otherSkills": [
+        "Cooking"
+    ]
+}
